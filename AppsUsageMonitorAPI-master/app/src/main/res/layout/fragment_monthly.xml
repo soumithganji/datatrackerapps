@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragments.fragment_today"
+    android:orientation="vertical"
+    android:background="@drawable/bg">
+    <!--    <androidx.core.widget.NestedScrollView-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content">-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <org.eazegraph.lib.charts.PieChart
+                android:id="@+id/piechart"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:padding="6dp"
+                android:layout_gravity="left"
+                android:layout_margin="5dp"
+                android:visibility="gone"
+                />
+
+            <org.eazegraph.lib.charts.BarChart
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/barchart"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                app:egFixedBarWidth="true"
+                app:egBarWidth="20dp"
+                app:egLegendHeight="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                app:egShowValues="false"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp">
+
+                    <TextView
+                        android:id="@+id/date"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:textStyle="bold"
+                        android:textColor="#3d3d3d"
+                        android:visibility="gone"
+                        />
+
+                </RelativeLayout>
+
+
+                <TextView
+                    android:id="@+id/apptext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Most used apps"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="12dp"
+                    android:textStyle="bold"
+                    android:textColor="#3d3d3d"
+                    android:visibility="gone"
+                    />
+
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/card"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    app:cardCornerRadius="20dp"
+                    android:padding="5dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:orientation="horizontal"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginTop="5dp"
+                            >
+
+                            <ImageView
+                                android:id="@+id/maximg1"
+                                android:layout_width="25dp"
+                                android:layout_height="25dp"
+                                android:layout_margin="1dp"
+                                />
+                            <TextView
+                                android:id="@+id/maxtext1"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="55dp"
+                                android:layout_gravity="center_vertical"
+                                android:maxLines="1"
+                                android:ellipsize="end"
+                                android:layout_marginRight="6dp"
+                                android:textStyle="bold"
+                                android:textSize="12dp"
+                                />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_marginLeft="5dp">
+
+                            <ImageView
+                                android:id="@+id/maximg2"
+                                android:layout_width="25dp"
+                                android:layout_height="25dp"
+                                android:layout_margin="1dp"
+                                />
+                            <TextView
+                                android:id="@+id/maxtext2"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="55dp"
+                                android:layout_gravity="center_vertical"
+                                android:maxLines="1"
+                                android:ellipsize="end"
+                                android:layout_marginRight="6dp"
+                                android:textStyle="bold"
+                                android:textSize="12dp"
+                                />
+
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_marginLeft="5dp">
+
+                            <ImageView
+                                android:id="@+id/maximg3"
+                                android:layout_width="25dp"
+                                android:layout_height="25dp"
+                                android:layout_margin="1dp"
+                                />
+                            <TextView
+                                android:id="@+id/maxtext3"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="55dp"
+                                android:layout_gravity="center_vertical"
+                                android:maxLines="1"
+                                android:ellipsize="end"
+                                android:layout_marginRight="6dp"
+                                android:textStyle="bold"
+                                android:textSize="12dp"
+                                />
+
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginBottom="5dp">
+
+                            <ImageView
+                                android:id="@+id/maximg4"
+                                android:layout_width="25dp"
+                                android:layout_height="25dp"
+                                android:layout_margin="1dp"
+                                />
+                            <TextView
+                                android:id="@+id/maxtext4"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="55dp"
+                                android:layout_gravity="center_vertical"
+                                android:maxLines="1"
+                                android:ellipsize="end"
+                                android:layout_marginRight="6dp"
+                                android:textStyle="bold"
+                                android:textSize="12dp"
+                                />
+
+                        </LinearLayout>
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/spinner"
+            android:nestedScrollingEnabled="false"/>
+
+    </LinearLayout>
+
+
+
+    <!--    </androidx.core.widget.NestedScrollView>-->
+
+
+</LinearLayout>

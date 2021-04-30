@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\bfd2bdaab340f28e039bd57d4085743a\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\408c9f7f033b4ed5f2df8fceb47023aa\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\3ac7422b74913ac8de9ed51ddbb89fe2\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\2c2d02ec0b1f366783436e1d8ef01334\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\92f1ce46fc3c5c158f49e8c20db75b13\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [the.bot.box:appusagemonitor:2.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\4c5986bae8ebe46d92c14b3929ddc8b1\jetified-appusagemonitor-2.1.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.blackfizz:eazegraph:1.2.5l] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\72d53e0eacf76da8f3366b31769942f1\jetified-eazegraph-1.2.5l\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\98d7e2c7d087590b785cff5fca6d16eb\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\8de4673cf53c6ee2e2b44c2a2c488812\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\dd75c09f61b7f207d838389d2b5ebe03\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\32d7094055058ec8bbff1fc998af8acd\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\ec83644aa43787f66de0c7cbaebeab02\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\4fcb77a6da33ad194daaf2b94da76d7d\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\85f4c4b9eb7be7d790894962ff2d754d\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\47efd8e9fdc2f7314cc8c41de888673b\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\d675a604b959c39ee4915a4cafa7a893\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\04b05008b28207491f2ffb4a1e98e1d1\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\692da4bd2aa5e33091d34e30cbb52ca5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\7782815e5b20470dd72e0c5004a4f16b\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\ac4ae372abff8f55e2a60453db9bde92\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\b98347f65a34e15c6af696824b97c6df\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\65fb472f1afa7f1879a0b73b84a349fa\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\f46a8d456a94a86c39bb450530dba5ac\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\70798c6a1f12040b27e34e2de52386f7\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\6967b09c559a4c26cfde2dc9c98c6f35\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\523436bd657c3a9d3b4c2a297d520a8e\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\9c084b73986ab0bc3aa594cf1b9975bf\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\9fccccb8ae87bbe5e4a744276868e04a\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\5aa13645088f0b19426601861ba6711e\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\3ecf6c5d9a00c1d02ad568a2e2ec4421\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\b9473b6fa012246c664907efaa67eb3d\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\ae1eb251817d06c470bd5fcc7ac0a591\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\0a5c7aefe91dbc89e783b9a1c31503d1\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\3cc280fdefdf57c8e0837f334aaa26df\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\e03547e16aaeb99e0cdc1c43e9f22f1a\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\a072c7a4208b43a9f2d4ecf2802a8480\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\60f7cc05d7c373f0fcb68a3390e76441\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\1bbd399d0c9fede900e01246664507c2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\cc496b2f157427290fe5dfee4d62677b\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\7bfe03e1de17ced159cfb13afe74f3ca\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\945ff6d8be71b83cb06361da85d81b63\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\e9175d81dc14baa4d673c0a7ac313aa4\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:6:5-8:47
+	tools:ignore
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:7:9-62
+application
+ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:10:5-28:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\bfd2bdaab340f28e039bd57d4085743a\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\bfd2bdaab340f28e039bd57d4085743a\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\3ac7422b74913ac8de9ed51ddbb89fe2\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\3ac7422b74913ac8de9ed51ddbb89fe2\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\2c2d02ec0b1f366783436e1d8ef01334\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\2c2d02ec0b1f366783436e1d8ef01334\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [the.bot.box:appusagemonitor:2.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\4c5986bae8ebe46d92c14b3929ddc8b1\jetified-appusagemonitor-2.1.0\AndroidManifest.xml:11:5-15:19
+MERGED from [the.bot.box:appusagemonitor:2.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\4c5986bae8ebe46d92c14b3929ddc8b1\jetified-appusagemonitor-2.1.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.blackfizz:eazegraph:1.2.5l] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\72d53e0eacf76da8f3366b31769942f1\jetified-eazegraph-1.2.5l\AndroidManifest.xml:12:5-13:19
+MERGED from [com.github.blackfizz:eazegraph:1.2.5l] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\72d53e0eacf76da8f3366b31769942f1\jetified-eazegraph-1.2.5l\AndroidManifest.xml:12:5-13:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\9c084b73986ab0bc3aa594cf1b9975bf\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\9c084b73986ab0bc3aa594cf1b9975bf\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\b9473b6fa012246c664907efaa67eb3d\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\b9473b6fa012246c664907efaa67eb3d\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\ae1eb251817d06c470bd5fcc7ac0a591\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\ae1eb251817d06c470bd5fcc7ac0a591\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\9c084b73986ab0bc3aa594cf1b9975bf\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:13:9-41
+	tools:ignore
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:17:9-74
+	android:roundIcon
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.appusage.activity.MainActivity
+ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:18:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.appusage.activity.DetailActivity
+ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:25:9-27:52
+	android:screenOrientation
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml:26:13-52
+uses-sdk
+INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\bfd2bdaab340f28e039bd57d4085743a\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\bfd2bdaab340f28e039bd57d4085743a\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\408c9f7f033b4ed5f2df8fceb47023aa\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\408c9f7f033b4ed5f2df8fceb47023aa\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\3ac7422b74913ac8de9ed51ddbb89fe2\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\3ac7422b74913ac8de9ed51ddbb89fe2\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\2c2d02ec0b1f366783436e1d8ef01334\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\2c2d02ec0b1f366783436e1d8ef01334\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\92f1ce46fc3c5c158f49e8c20db75b13\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\92f1ce46fc3c5c158f49e8c20db75b13\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [the.bot.box:appusagemonitor:2.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\4c5986bae8ebe46d92c14b3929ddc8b1\jetified-appusagemonitor-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [the.bot.box:appusagemonitor:2.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\4c5986bae8ebe46d92c14b3929ddc8b1\jetified-appusagemonitor-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.blackfizz:eazegraph:1.2.5l] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\72d53e0eacf76da8f3366b31769942f1\jetified-eazegraph-1.2.5l\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.blackfizz:eazegraph:1.2.5l] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\72d53e0eacf76da8f3366b31769942f1\jetified-eazegraph-1.2.5l\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\98d7e2c7d087590b785cff5fca6d16eb\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\98d7e2c7d087590b785cff5fca6d16eb\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\8de4673cf53c6ee2e2b44c2a2c488812\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\8de4673cf53c6ee2e2b44c2a2c488812\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\dd75c09f61b7f207d838389d2b5ebe03\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\dd75c09f61b7f207d838389d2b5ebe03\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\32d7094055058ec8bbff1fc998af8acd\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\32d7094055058ec8bbff1fc998af8acd\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\ec83644aa43787f66de0c7cbaebeab02\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\ec83644aa43787f66de0c7cbaebeab02\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\4fcb77a6da33ad194daaf2b94da76d7d\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\4fcb77a6da33ad194daaf2b94da76d7d\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\85f4c4b9eb7be7d790894962ff2d754d\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\85f4c4b9eb7be7d790894962ff2d754d\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\47efd8e9fdc2f7314cc8c41de888673b\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\47efd8e9fdc2f7314cc8c41de888673b\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\d675a604b959c39ee4915a4cafa7a893\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\d675a604b959c39ee4915a4cafa7a893\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\04b05008b28207491f2ffb4a1e98e1d1\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\04b05008b28207491f2ffb4a1e98e1d1\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\692da4bd2aa5e33091d34e30cbb52ca5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\692da4bd2aa5e33091d34e30cbb52ca5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\7782815e5b20470dd72e0c5004a4f16b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\7782815e5b20470dd72e0c5004a4f16b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\ac4ae372abff8f55e2a60453db9bde92\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\ac4ae372abff8f55e2a60453db9bde92\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\b98347f65a34e15c6af696824b97c6df\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\b98347f65a34e15c6af696824b97c6df\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\65fb472f1afa7f1879a0b73b84a349fa\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\65fb472f1afa7f1879a0b73b84a349fa\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\f46a8d456a94a86c39bb450530dba5ac\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\f46a8d456a94a86c39bb450530dba5ac\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\70798c6a1f12040b27e34e2de52386f7\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\70798c6a1f12040b27e34e2de52386f7\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\6967b09c559a4c26cfde2dc9c98c6f35\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\6967b09c559a4c26cfde2dc9c98c6f35\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\523436bd657c3a9d3b4c2a297d520a8e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\523436bd657c3a9d3b4c2a297d520a8e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\9c084b73986ab0bc3aa594cf1b9975bf\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\9c084b73986ab0bc3aa594cf1b9975bf\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\9fccccb8ae87bbe5e4a744276868e04a\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\9fccccb8ae87bbe5e4a744276868e04a\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\5aa13645088f0b19426601861ba6711e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\5aa13645088f0b19426601861ba6711e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\3ecf6c5d9a00c1d02ad568a2e2ec4421\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\3ecf6c5d9a00c1d02ad568a2e2ec4421\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\b9473b6fa012246c664907efaa67eb3d\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\b9473b6fa012246c664907efaa67eb3d\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\ae1eb251817d06c470bd5fcc7ac0a591\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\ae1eb251817d06c470bd5fcc7ac0a591\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\0a5c7aefe91dbc89e783b9a1c31503d1\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\0a5c7aefe91dbc89e783b9a1c31503d1\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\3cc280fdefdf57c8e0837f334aaa26df\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\3cc280fdefdf57c8e0837f334aaa26df\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\e03547e16aaeb99e0cdc1c43e9f22f1a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\e03547e16aaeb99e0cdc1c43e9f22f1a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\a072c7a4208b43a9f2d4ecf2802a8480\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\a072c7a4208b43a9f2d4ecf2802a8480\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\60f7cc05d7c373f0fcb68a3390e76441\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\60f7cc05d7c373f0fcb68a3390e76441\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\1bbd399d0c9fede900e01246664507c2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\1bbd399d0c9fede900e01246664507c2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\cc496b2f157427290fe5dfee4d62677b\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\cc496b2f157427290fe5dfee4d62677b\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\7bfe03e1de17ced159cfb13afe74f3ca\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\7bfe03e1de17ced159cfb13afe74f3ca\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\945ff6d8be71b83cb06361da85d81b63\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\945ff6d8be71b83cb06361da85d81b63\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\e9175d81dc14baa4d673c0a7ac313aa4\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\e9175d81dc14baa4d673c0a7ac313aa4\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\soumith\Desktop\data tracker project\AppsUsageMonitorAPI-master\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\3ac7422b74913ac8de9ed51ddbb89fe2\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\3ac7422b74913ac8de9ed51ddbb89fe2\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\3ac7422b74913ac8de9ed51ddbb89fe2\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\3ac7422b74913ac8de9ed51ddbb89fe2\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [the.bot.box:appusagemonitor:2.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\4c5986bae8ebe46d92c14b3929ddc8b1\jetified-appusagemonitor-2.1.0\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from [the.bot.box:appusagemonitor:2.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\4c5986bae8ebe46d92c14b3929ddc8b1\jetified-appusagemonitor-2.1.0\AndroidManifest.xml:9:22-72
+provider#bot.box.appusage.provider.AppUsageProvider
+ADDED from [the.bot.box:appusagemonitor:2.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\4c5986bae8ebe46d92c14b3929ddc8b1\jetified-appusagemonitor-2.1.0\AndroidManifest.xml:12:9-14:71
+	android:authorities
+		ADDED from [the.bot.box:appusagemonitor:2.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\4c5986bae8ebe46d92c14b3929ddc8b1\jetified-appusagemonitor-2.1.0\AndroidManifest.xml:14:13-68
+	android:name
+		ADDED from [the.bot.box:appusagemonitor:2.1.0] C:\Users\soumith\.gradle\caches\transforms-2\files-2.1\4c5986bae8ebe46d92c14b3929ddc8b1\jetified-appusagemonitor-2.1.0\AndroidManifest.xml:13:13-70

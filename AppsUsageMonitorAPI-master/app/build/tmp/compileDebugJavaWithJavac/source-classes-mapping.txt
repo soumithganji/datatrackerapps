@@ -1,0 +1,25 @@
+com/example/appusage/BuildConfig.java
+ com.example.appusage.BuildConfig
+com/example/appusage/NetworkStatsHelper.java
+ com.example.appusage.NetworkStatsHelper
+com/example/appusage/activity/MainActivity.java
+ com.example.appusage.activity.MainActivity
+ com.example.appusage.activity.MainActivity$1
+ com.example.appusage.activity.MainActivity$ViewPagerAdapter
+com/example/appusage/adapter/AppAdapter.java
+ com.example.appusage.adapter.AppAdapter
+ com.example.appusage.adapter.AppAdapter$ViewHolder
+com/example/appusage/adapter/AppTimeLineAdapter.java
+ com.example.appusage.adapter.AppTimeLineAdapter
+ com.example.appusage.adapter.AppTimeLineAdapter$MyViewHolder
+com/example/appusage/activity/DetailActivity.java
+ com.example.appusage.activity.DetailActivity
+ com.example.appusage.activity.DetailActivity$1
+com/example/appusage/PackageManagerHelper.java
+ com.example.appusage.PackageManagerHelper
+com/example/appusage/fragments/fragment_monthly.java
+ com.example.appusage.fragments.fragment_monthly
+com/example/appusage/fragments/fragment_today.java
+ com.example.appusage.fragments.fragment_today
+com/example/appusage/fragments/fragment_weekly.java
+ com.example.appusage.fragments.fragment_weekly

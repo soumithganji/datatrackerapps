@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">appwise tracker</string>
+
+    <array name="duration">
+        <item>TODAY</item>
+        <item>YESTERDAY</item>
+        <item>WEEK</item>
+        <item>MONTH</item>
+    </array>
+
+    <plurals name="times_launched">
+        <item quantity="one">Time Launched</item>
+        <item quantity="other">Times Launched</item>
+    </plurals>
+    <string name="not_active">Device was not active for</string>
+    <string name="in_use">In Use</string>
+
+    <string-array name="array_palette">
+        <item>#00acb0</item>
+        <item>#92ac01</item>
+        <item>#fc0d60</item>
+        <item>#cd10cc</item>
+        <item>#fe8301</item>
+    </string-array>
+
+    <style name="MineCustomTabText" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">15sp</item>
+        <item name="textAllCaps">false</item>
+    </style>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
